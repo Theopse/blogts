@@ -4,3 +4,5 @@
 [FBI安装游戏失败](pages/fbiinstallwrong)
 
 [主机系统更新](pages/systemupdate)
+
+[备份存档](pages/checkpoint)
