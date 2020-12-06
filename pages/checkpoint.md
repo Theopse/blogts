@@ -1,5 +1,5 @@
 <div style="text-align:center">
-   <h2>备份存档（Checkpoint）
+   <h2>备份存档（Checkpoint）</h2>
 </div>
 
 这是一款**汉化的自制软件**，可能需要**字库**。
